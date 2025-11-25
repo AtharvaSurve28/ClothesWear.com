@@ -1,0 +1,66 @@
+[
+    {
+        "id": 9,
+        "name": "WOMEN'S ELEGANT BLOUSE",
+        "price": 54.99,
+        "member_price": 45.99,
+        "color": "Red",
+        "image": "Ladies1.avif"
+    },
+    {
+        "id": 10,
+        "name": "CHIC SUMMER DRESS",
+        "price": 65.99,
+        "member_price": 55.99,
+        "color": "Pink",
+        "image": "Ladies2.avif"
+    },
+    {
+        "id": 11,
+        "name": "CASUAL KNIT SWEATER",
+        "price": 39.99,
+        "member_price": 32.99,
+        "color": "Yellow",
+        "image": "Ladies3.avif"
+    },
+    {
+        "id": 12,
+        "name": "HIGH-WAISTED SKINNY JEANS",
+        "price": 78.99,
+        "member_price": 69.99,
+        "color": "Orange",
+        "image": "Ladies4.avif"
+    },
+    {
+        "id": 13,
+        "name": "FORMAL WORK BLAZER",
+        "price": 51.99,
+        "member_price": 43.99,
+        "color": "Purple",
+        "image": "Ladies5.avif"
+    },
+    {
+        "id": 14,
+        "name": "ATHLETIC LEGGINGS",
+        "price": 85.99,
+        "member_price": 74.99,
+        "color": "Brown",
+        "image": "Ladies6.avif"
+    },
+    {
+        "id": 15,
+        "name": "SILK PAJAMA SET",
+        "price": 43.99,
+        "member_price": 36.99,
+        "color": "Gray",
+        "image": "Ladies7.avif"
+    },
+    {
+        "id": 16,
+        "name": "VINTAGE STYLE JACKET",
+        "price": 47.99,
+        "member_price": 40.99,
+        "color": "Cyan",
+        "image":"Ladies8.avif"
+    }
+]

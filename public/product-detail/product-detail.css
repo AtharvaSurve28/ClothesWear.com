@@ -1,0 +1,118 @@
+
+/* General styles for product detail page */
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.product-gallery {
+    flex: 1;
+    display: flex;
+}
+
+.product-thumbnails {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-thumbnails img {
+    width: 60px;
+    height: 80px;
+    object-fit: cover;
+    cursor: pointer;
+    border: 1px solid #ddd;
+}
+
+.product-thumbnails img:hover, .product-thumbnails img.active {
+    border: 2px solid #000;
+}
+
+.product-image {
+    flex: 1;
+    padding-left: 20px;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Product details section */
+.product-details {
+    flex: 1;
+    padding-left: 50px;
+}
+
+.product-name {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.product-price {
+    font-size: 1.8rem;
+    color: #b12704;
+    margin-bottom: 20px;
+}
+
+.color-selector, .size-selector {
+    margin-bottom: 30px;
+}
+
+.color-selector p, .size-selector p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.color-swatch {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ccc;
+}
+
+.sizes button {
+    padding: 12px 18px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.sizes button:hover {
+    background-color: #f0f0f0;
+}
+
+.sizes button.selected {
+    background-color: #e0e0e0; /* Light grey for selected */
+    border-color: #e0e0e0;
+}
+
+
+.add-to-bag {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s;
+}
+
+.add-to-bag:hover {
+    background-color: #333;
+}
+
+.size-guide {
+    text-decoration: underline;
+    color: #333;
+    font-size: 14px;
+    cursor: pointer;
+}
+

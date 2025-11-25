@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Profile - ClothesWear.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="profile.css">
+    <link rel="stylesheet" href="edit-profile.css">
+</head>
+<body>
+
+<header>
+    <!-- Navbar -->
+</header>
+
+<main class="profile-container">
+    <section class="profile-header">
+        <h1 class="profile-name">Edit Profile</h1>
+        <p class="profile-email">Update your personal information below.</p>
+    </section>
+
+    <section class="profile-section settings-section">
+        <div class="profile-card">
+            <form id="edit-profile-form">
+                <div class="form-group avatar-group">
+                    <label>Profile Picture (Click to Change)</label>
+                    <img src="" alt="Current Avatar" id="avatar-preview" class="profile-avatar" style="cursor: pointer;">
+                    <input type="file" id="avatar-upload" name="avatar" accept="image/*" style="display: none;">
+                </div>
+
+                <div class="form-group">
+                    <label for="name">Full Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="bio">Bio</label>
+                    <textarea id="bio" name="bio" placeholder="Tell us about yourself..."></textarea>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                    <a href="profile.html" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </section>
+</main>
+
+<script src="edit-profile.js"></script>
+</body>
+</html>
+

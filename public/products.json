@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "LOOSE-FIT SPORTS HOODIE WITH DRYMOVE™",
+        "price": 44.99,
+        "member_price": 37.99,
+        "color": "Dark gray",
+        "image": "Mens1.avif"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 45.99,
+        "member_price": 38.99,
+        "color": "Black",
+        "image": "Mens2.avif"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 29.99,
+        "member_price": 24.99,
+        "color": "Beige",
+        "image": "Mens3.avif"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 58.99,
+        "member_price": 49.99,
+        "color": "Blue",
+        "image": "Mens4.avif"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 41.99,
+        "member_price": 35.99,
+        "color": "White",
+        "image": "Mens5.avif"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 75.99,
+        "member_price": 64.99,
+        "color": "Denim",
+        "image": "Mens6.avif"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "price": 33.99,
+        "member_price": 28.99,
+        "color": "Mustard",
+        "image": "Mens7.avif"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "price": 37.99,
+        "member_price": 32.99,
+        "color": "Green",
+        "image": "Mens8.avif"
+    }
+]

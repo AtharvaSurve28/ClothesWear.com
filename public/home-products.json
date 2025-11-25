@@ -1,0 +1,58 @@
+[
+    {
+        "id": 31,
+        "name": "Royal Blue T-shirt",
+        "image": "H and M image1.avif",
+        "collection": "men",
+        "price": "$44.99"
+    },
+    {
+        "id": 32,
+        "name": "Cargo Pants",
+        "image": "H and M image2.avif",
+        "collection": "men",
+        "price": "$45.99"
+    },
+    {
+        "id": 33,
+        "name": "Racing T-shirt",
+        "image": "H and M image3.avif",
+        "collection": "men",
+        "price": "$29.99"
+    },
+    {
+        "id": 34,
+        "name": "Baggy Jeans",
+        "image": "H and M image4.avif",
+        "collection": "men",
+        "price": "$58.99"
+    },
+    {
+        "id": 35,
+        "name": "Black T-shirt",
+        "image": "H and M image5.avif",
+        "collection": "men",
+        "price": "$41.99"
+    },
+    {
+        "id": 36,
+        "name": "White Formal Shirt",
+        "image": "H and M image6.avif",
+        "collection": "men",
+        "price": "$75.99"
+    },
+    {
+        "id": 37,
+        "name": "Black Trousers",
+        "image": "H and M image7.avif",
+        "collection": "men",
+        "price": "$33.99"
+    },
+    {
+        "id": 38,
+        "name": "Maroon T-shirt",
+        "image": "H and M image8.avif",
+        "collection": "men",
+        "price": "$37.99"
+    }
+]

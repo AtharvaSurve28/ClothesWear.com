@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Shopping Cart - ClothesWear.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="cart.css">
+</head>
+<body>
+
+
+    <main class="cart-container">
+        <h1>Your Shopping Cart</h1>
+        <div class="cart-content">
+            <div class="cart-items">
+                <!-- Cart items will be dynamically inserted here by cart.js -->
+            </div>
+            <div class="cart-summary">
+                <h2>Summary</h2>
+                <div class="summary-details">
+                    <p>Base Price: <span id="base-price">$0.00</span></p>
+                    <p>GST (18%): <span id="gst-amount">$0.00</span></p>
+                    <hr>
+                    <p><strong>Total: <span id="total-price">$0.00</span></strong></p>
+                </div>
+                <button class="checkout-btn">PROCEED TO PAY</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="cart.js"></script>
+</body>
+</html>

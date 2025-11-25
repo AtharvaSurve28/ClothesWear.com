@@ -1,0 +1,66 @@
+[
+    {
+        "id": 17,
+        "name": "Classic Blue T-Shirt",
+        "price": 4499,
+        "member_price": 3999,
+        "color": "Blue",
+        "image": "kids1.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Green Cargo Pants",
+        "price": 4599,
+        "member_price": 4099,
+        "color": "Green",
+        "image": "kids2.avif"
+    },
+    {
+        "id": 19,
+        "name": "Peach-Colored T-Shirt",
+        "price": 3999,
+        "member_price": 3499,
+        "color": "Peach",
+        "image": "kids3.avif"
+    },
+    {
+        "id": 20,
+        "name": "Relaxed Fit Jeans",
+        "price": 6899,
+        "member_price": 6399,
+        "color": "Denim",
+        "image": "kids4.avif"
+    },
+    {
+        "id": 21,
+        "name": "Beige Hoodie",
+        "price": 8199,
+        "member_price": 7699,
+        "color": "Beige",
+        "image": "kids5.avif"
+    },
+    {
+        "id": 22,
+        "name": "Denim Jacket",
+        "price": 7599,
+        "member_price": 7099,
+        "color": "Denim",
+        "image": "kids6.avif"
+    },
+    {
+        "id": 23,
+        "name": "Mustard Chino Shorts",
+        "price": 4399,
+        "member_price": 3899,
+        "color": "Mustard",
+        "image": "kids7.avif"
+    },
+    {
+        "id": 24,
+        "name": "Linen Blend Shirt",
+        "price": 2799,
+        "member_price": 2299,
+        "color": "White",
+        "image": "kids8.avif"
+    }
+]

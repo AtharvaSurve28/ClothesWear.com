@@ -1,0 +1,27 @@
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+
+# Firebase
+.firebase/
+firebase.json
+.firebaserc
+firebase.js
+firebase-admin-sdk.json
+
+# Build output
+dist
+build
+
+# Misc
+.DS_Store
+
+# User data
+user-profile.json
