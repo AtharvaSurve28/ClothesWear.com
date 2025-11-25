@@ -24,4 +24,5 @@ build
 .DS_Store
 
 # User data
-user-profile.json
+/public/user-profiles/
+
